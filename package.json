@@ -1,5 +1,5 @@
 {
-  "name": "smart-store",
+  "name": "server",
   "version": "1.0.0",
   "description": "smart store rest api",
   "main": "server.js",
